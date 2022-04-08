@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sushmitha S</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://www.pinterest.com/pin/615374736573846166/">
+<img align = "right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushmithashiv24&label=Profile%20views&color=0e75b6&style=flat" alt="sushmithashiv24" /> </p>
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 👨‍💻 All of my projects are available at [https://sushmithaswordpress.netlify.app/](https://sushmithaswordpress.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://sushmithasush.netlify.com/](https://sushmithasush.netlify.com/)
 
 - 💬 Ask me about **WordPress, JavaScript**
 
