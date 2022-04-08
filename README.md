@@ -43,7 +43,7 @@
 <br />
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushmithashiv24&show_icons=true&locale=en&layout=compact" alt="sushmithashiv24" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushmithashiv24&show_icons=true&locale=en&layout=compact" alt="sushmithashiv24" /></p><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sushmithashiv24&show_icons=true&locale=en" alt="sushmithashiv24" /></p>
 
