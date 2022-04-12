@@ -12,8 +12,8 @@
 - 📄 Know about my experiences [https://sushmithaswordpress.netlify.app/](https://sushmithaswordpress.netlify.app/)
 
 
-<h3 align="left">##Languages and Skills:</h3>
-<p align="left"> <hr>
+<h3 align="left">Languages and Skills:</h3>
+<p align="left"> 
 
  <img align="left" alt="Wordpress" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"/> 
  
